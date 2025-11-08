@@ -1,0 +1,19 @@
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.navbar-link {
+    text-decoration: none;
+    font-size: 22px;
+    color: rgb(230, 230, 218);
+}
+
+.wrapper {
+    height: 60px;
+    width: 100%;
+    background-color: rgb(113, 116, 116);
+    padding-top: 9px;
+}
